@@ -4,4 +4,4 @@ class Demo:
     def printname(self):
         print('the name is the',self.name)
 if __name__ == '__main__':
-    Demo('nikhil').printname()
+    Demo('hank moody').printname()
